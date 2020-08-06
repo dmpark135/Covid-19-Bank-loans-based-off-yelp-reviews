@@ -1,7 +1,3 @@
-!git add "file.py"
-!git commit -m "My commit"
-!git push origin master
-
 import json
 
 with open('C:\\Users\\agoge\\Desktop\\yelp_data\\yelp_academic_dataset_business.json') as f:

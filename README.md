@@ -25,6 +25,17 @@ Their chance of survival and repayment is less likely.
 #Contents
 The Data Set
 	https://www.yelp.com/dataset/
+		yelp_academic_dataset_business.json
+		yelp_academic_dataset_checkin.json
+		yelp_academic_dataset_review.json
+		yelp_academic_dataset_tip.json
+		yelp_academic_dataset_user.json
+	We honed in on yelp_academic_dataset_business.json as most useful dataset to measure reputation capital.
+
+		
+
+		
+	
 
 
 
